@@ -8,4 +8,8 @@
  Hook LoadLibrary 先对fne, fnl文件进行扫描确定是否是官方支持库或lib中的支持库后再进行装载,发现是源代码目录下的支持库后弹窗提醒是否加载
 
 # 截图
- 参见img/img.png
+ ![img.png](img/img.png)
+
+# 感谢
+ POC改造自
+ https://github.com/aiqinxuancai/EasyFne
